@@ -1,3 +1,7 @@
+# HTML LINK: https://seriotonctf.github.io/CrackMapExec-and-NetExec-Cheat-Sheet/index.html 
+
+
+
 # NXC (NetExec) Cheatsheet
 
 Complete reference for NetExec (NXC) - the network execution tool for pentesting
